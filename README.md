@@ -1,4 +1,4 @@
-# ethbegn creating a token
+# creating a token
 The program introduces "MyToken," a straightforward custom token built with Solidity on the Ethereum blockchain. 
 Tokens can be created and destroyed while individual balances and the total supply are tracked. 
 With the capacity to mint new tokens and consume existing ones, the program guarantees that symbolic holders have sufficient equilibrium prior to playing out any consuming activities.
